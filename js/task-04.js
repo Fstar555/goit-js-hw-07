@@ -1,5 +1,3 @@
-"use strict";
-
 const loginForm = document.querySelector(".login-form");
 const emailIntput = loginForm.elements.email;
 const passwordInput = loginForm.elements.password;
