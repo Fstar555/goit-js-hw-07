@@ -16,7 +16,7 @@ const form = (event) => {
     console.log(
       `Email:${emailValue}
             Password:${passwordValue}`,
-      loginForm(reset)
+      loginForm.reset()
     );
   }
 };
